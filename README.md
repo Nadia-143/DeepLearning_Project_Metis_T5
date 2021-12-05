@@ -1,4 +1,4 @@
 
 <p align="center">
-  <img src="/image/pro.png" />
+  <img src="/img/pro.png" />
 </p>
